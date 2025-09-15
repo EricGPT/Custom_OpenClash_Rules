@@ -1,9 +1,10 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 245
+# TOTAL: 255
 
 payload:
+  - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,quickconnect
   - DOMAIN-KEYWORD,synology
   - DOMAIN-SUFFIX,03241119.xyz
@@ -35,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,belimked.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bsbsb.top
+  - DOMAIN-SUFFIX,canghaiip.com
   - DOMAIN-SUFFIX,centbrowser.net
   - DOMAIN-SUFFIX,cg3da.com
   - DOMAIN-SUFFIX,chaxunjiao.com
@@ -80,7 +82,9 @@ payload:
   - DOMAIN-SUFFIX,fzwqq.com
   - DOMAIN-SUFFIX,gaishitongshu.com
   - DOMAIN-SUFFIX,game.maj-soul.com
+  - DOMAIN-SUFFIX,gaojiua.com
   - DOMAIN-SUFFIX,gdcucc.v1.mk
+  - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,ggbond.org
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh.con.sh
@@ -152,6 +156,10 @@ payload:
   - DOMAIN-SUFFIX,lsbj365.com
   - DOMAIN-SUFFIX,lyihub.com
   - DOMAIN-SUFFIX,lyilife.com
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
+  - DOMAIN-SUFFIX,manfuz.co
+  - DOMAIN-SUFFIX,mc-user.com
   - DOMAIN-SUFFIX,meishiffx.online
   - DOMAIN-SUFFIX,members.3322.org
   - DOMAIN-SUFFIX,micu.hk
@@ -205,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,sxlljm.com
   - DOMAIN-SUFFIX,tailgdd.com
   - DOMAIN-SUFFIX,tangguobaohe.com
+  - DOMAIN-SUFFIX,tclai.top
   - DOMAIN-SUFFIX,tcp.pub
   - DOMAIN-SUFFIX,tcy365.net
   - DOMAIN-SUFFIX,thinkerride.com
@@ -240,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,yooc.me
   - DOMAIN-SUFFIX,yunzuoye.net
   - DOMAIN-SUFFIX,z6e.com
+  - DOMAIN-SUFFIX,zctnet.top
   - DOMAIN-SUFFIX,zeekrline.com
   - DOMAIN-SUFFIX,zhongancloud.com
   - DOMAIN-SUFFIX,znnu.com
