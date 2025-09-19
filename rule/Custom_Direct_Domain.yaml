@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 251
+# TOTAL: 260
 
 payload:
   - '*m-team*'
@@ -27,6 +27,7 @@ payload:
   - '+.afuns.me'
   - '+.aistudio-app.com'
   - '+.akamaihd.net'
+  - '+.aloys233.top'
   - '+.anycubic.com'
   - '+.api.myip.com'
   - '+.armvm.com'
@@ -132,7 +133,9 @@ payload:
   - '+.ifconfig.co'
   - '+.ifish7.com'
   - '+.igpsport.com'
+  - '+.imacos.top'
   - '+.immortalwrt.org'
+  - '+.iotrix.net'
   - '+.ip159.com'
   - '+.ip6.seeip.org'
   - '+.ipapi.co'
@@ -151,6 +154,7 @@ payload:
   - '+.kuaicha888.com'
   - '+.kyarucloud.moe'
   - '+.lanyun.net'
+  - '+.leelen.com'
   - '+.letaoedu.com'
   - '+.longmenshuju.com'
   - '+.lsbj365.com'
@@ -176,6 +180,7 @@ payload:
   - '+.netzz.net'
   - '+.nn.ci'
   - '+.nxog.top'
+  - '+.oceando.cloud'
   - '+.ok321.top'
   - '+.onebuygz.com'
   - '+.ottai.com'
@@ -194,6 +199,7 @@ payload:
   - '+.qianuni.com'
   - '+.qiaoxuesi.com'
   - '+.qinglue.com'
+  - '+.redenmc.com'
   - '+.registry.dockermirror.com'
   - '+.rewards.bing.com'
   - '+.rsfcxq.com'
@@ -203,6 +209,7 @@ payload:
   - '+.seaflysoft.com'
   - '+.seedpace.com'
   - '+.sgtv.ii00.cc'
+  - '+.shuqiandiqiu.com'
   - '+.sixloy428.top'
   - '+.sksight.com'
   - '+.snfox.com'
@@ -233,6 +240,7 @@ payload:
   - '+.webs.vc'
   - '+.wenyi188.com'
   - '+.wewillpro.com'
+  - '+.wjx.top'
   - '+.wlcdn88.com'
   - '+.wwwh.eu.org'
   - '+.x86pi.com'
@@ -248,6 +256,7 @@ payload:
   - '+.yongyu.xyz'
   - '+.yooc.me'
   - '+.yunzuoye.net'
+  - '+.yzcsoft.com'
   - '+.z6e.com'
   - '+.zctnet.top'
   - '+.zeekrline.com'
